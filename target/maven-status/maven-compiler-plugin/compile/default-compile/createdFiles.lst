@@ -1,0 +1,7 @@
+com\netsurfingzone\repository\BookRepository.class
+com\netsurfingzone\config\JpaConfig.class
+com\netsurfingzone\controller\BookController.class
+com\netsurfingzone\entity\Book.class
+com\netsurfingzone\serviceimpl\BookServiceImpl.class
+com\netsurfingzone\service\BookService.class
+com\netsurfingzone\main\SpringMain.class
